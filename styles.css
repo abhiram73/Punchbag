@@ -1,0 +1,49 @@
+#bag{
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    background: url(bag.png) center no-repeat;
+    background-color: aqua;
+}
+
+#bag.burst{
+    background-image: url(bag-burst.png);
+}
+
+#bag-health{
+   width: 200px;
+   border: 4px solid black;
+   margin-top: 20px ;
+   margin-bottom: 20px ;
+   margin-right: 80px ;
+   margin-left: 650px;   
+}
+
+#bag-health div{
+       height: 20px;
+       background: crimson;
+}    
+
+#controls{
+
+     width: 120px;
+     margin-top: 0px;
+     margin-bottom: 20px;
+     margin-left: 700px;
+     margin-right: 80px;
+     
+}
+
+ button
+ {
+      color: red;
+      background-color: aqua;
+ }
+
+ #app
+ {
+     text-align: center;
+     color: red;
+     text-transform: capitalize;
+ }
+
